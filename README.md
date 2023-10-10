@@ -5,11 +5,11 @@ O projeto tem como objetivo realizar a gestão de uma loja de forma geral. Nesta
 
 ## Back end
 
-**nestjs**
-**prisma**
-**jwt**
-**docker**
-**mysql**
+**nestjs**|
+**prisma**|
+**jwt**|
+**docker**|
+**mysql**|
 
 ## Front end
 
