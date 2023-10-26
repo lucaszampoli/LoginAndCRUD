@@ -1,4 +1,4 @@
-# Este projeto está em desenolvimento
+# LoginAndCRUD User
 
 O projeto tem como objetivo realizar criação de usuarios e login dos mesmos.
 
