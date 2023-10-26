@@ -1,6 +1,6 @@
 # Este projeto está em desenolvimento
 
-O projeto tem como objetivo realizar a gestão de uma loja de forma geral. Nesta primeira etapa foi desenvolvido apenas um login.
+O projeto tem como objetivo realizar criação de usuarios e login dos mesmos.
 
 
 ## Back end
